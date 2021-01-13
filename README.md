@@ -1,4 +1,4 @@
-### Hi there, I'm Igor Zinar [https://igorzinar.com/] 👋
+### Hi there, I'm Igor Zinar https://igorzinar.com/ 👋
 
 ## I'm a Front End Developer!!!
 
@@ -25,13 +25,11 @@
 
 ---
 
-<
-
 </details>
 
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=igorzinar&show_icons=true&hide_border=true" />
+  <img align="left" alt="igorzinar's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=igorzinar&show_icons=true&hide_border=true" />
 
 </details>
