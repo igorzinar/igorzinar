@@ -31,11 +31,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/codeSTACKr/build-responsive-website/pull/1) in [codeSTACKr/build-responsive-website](https://github.com/codeSTACKr/build-responsive-website)
-2. ❗️ Closed issue [#4](https://github.com/codeSTACKr/codestackr-vscode-theme/issues/4) in [codeSTACKr/codestackr-vscode-theme](https://github.com/codeSTACKr/codestackr-vscode-theme)
-3. 🗣 Commented on [#4](https://github.com/codeSTACKr/codestackr-vscode-theme/issues/4) in [codeSTACKr/codestackr-vscode-theme](https://github.com/codeSTACKr/codestackr-vscode-theme)
-4. 🎉 Merged PR [#7](https://github.com/codeSTACKr/codestackr-vscode-theme/pull/7) in [codeSTACKr/codestackr-vscode-theme](https://github.com/codeSTACKr/codestackr-vscode-theme)
-5. ❗️ Closed issue [#6](https://github.com/codeSTACKr/codestackr-vscode-theme/issues/6) in [codeSTACKr/codestackr-vscode-theme](https://github.com/codeSTACKr/codestackr-vscode-theme)
+1. ❌ Closed PR [#1](https://github.com/igorzinar/build-responsive-website/pull/1) in [igorzinar/build-responsive-website](https://github.com/igorzinar/build-responsive-website)
+2. ❗️ Closed issue [#4](https://github.com/igorzinar/igorzinar-vscode-theme/issues/4) in [igorzinar/igorzinar-vscode-theme](https://github.com/igorzinar/igorzinar-vscode-theme)
+3. 🗣 Commented on [#4](https://github.com/igorzinar/igorzinar-vscode-theme/issues/4) in [igorzinar/igorzinar-vscode-theme](https://github.com/igorzinar/igorzinar-vscode-theme)
+4. 🎉 Merged PR [#7](https://github.com/igorzinar/igorzinar-vscode-theme/pull/7) in [igorzinar/igorzinar-vscode-theme](https://github.com/igorzinar/igorzinar-vscode-theme)
+5. ❗️ Closed issue [#6](https://github.com/igorzinar/igorzinar-vscode-theme/issues/6) in [igorzinar/igorzinar-vscode-theme](https://github.com/codeSTACKr/codestackr-vscode-theme)
 <!--END_SECTION:activity-->
 
 </details>
@@ -43,6 +43,6 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=igorzinar&show_icons=true&hide_border=true" />
 
 </details>
