@@ -1,18 +1,15 @@
 ### Hi there, I'm [Igor Zinar](https://igorzinar.com/) 👋
 
-## I'm a Front End Developer 💻✨
+## I'm a Web End Developer 💻✨
 
-- 🔭 Passionate about coding and creating remarkable web experiences.
-- 🌱 Continuously expanding my knowledge in the ever-evolving field of web development.
-- 👯 Eager to collaborate with fellow frontend developers to share insights and build innovative solutions.
-- 🥅 **2024 Goals**:
-    - **Make Significant Contributions to Open Source Projects** 🌐
-        - Actively contribute to well-known open-source projects to give back to the community.
-        - Collaborate with other developers to solve real-world problems and share knowledge.
-    - **Enhance My Expertise in React, TypeScript, and Advanced JavaScript** 🚀
-        - Deepen my understanding of React by exploring its latest features and best practices.
-        - Master TypeScript by implementing complex type systems and improving code quality and maintainability.
-        - Explore advanced JavaScript concepts and patterns to write more efficient, scalable, and maintainable code.
+🔭 Passionate Web Developer
+Dedicated to building exceptional and impactful web experiences.
+
+🌱 Always Learning
+Continuously improving my skills in modern web technologies.
+
+👯 Collaborative Mindset
+Love working with others to create innovative solutions.
 
 ### Technologies and Tools 🛠️:
 
