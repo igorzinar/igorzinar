@@ -1,6 +1,6 @@
 ### Hi there, I'm [Igor](https://igorzinar.com/) 👋
 
-## I'm a Web End Developer 💻✨
+## I'm a Web Developer 💻✨
 
 🔭 Passionate Web Developer
 Dedicated to building exceptional and impactful web experiences.
