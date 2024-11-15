@@ -1,4 +1,4 @@
-### Hi there, I'm [Igor Zinar](https://igorzinar.com/) 👋
+### Hi there, I'm [Igor](https://igorzinar.com/) 👋
 
 ## I'm a Web End Developer 💻✨
 
